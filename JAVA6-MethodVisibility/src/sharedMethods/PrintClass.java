@@ -12,7 +12,7 @@
 
 package sharedMethods;
 
-public class printClass {
+public class PrintClass {
 
 	public void printMe()
 	{
